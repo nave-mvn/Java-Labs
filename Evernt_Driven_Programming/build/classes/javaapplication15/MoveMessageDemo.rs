@@ -1,0 +1,3 @@
+MoveMessageDemo$MovableMessagePanel
+MoveMessageDemo$MovableMessagePanel$1
+MoveMessageDemo
